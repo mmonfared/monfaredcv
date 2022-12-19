@@ -1,108 +1,136 @@
-name: John Doe
+name: Mohammad Monfared
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
+  email: mohammadmonfared [at] hotmail [dot] com
   github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
+  linkedin: mohammad-monfared
+  youtube: automationcamp
+  telegram: mohammad_monfared
+  phone:
+  gitlab:
+  twitter:
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Farsi
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: BE in Information Technology
+    time: 2015-2017
+    university: University of Applied Science and Technoogy
 
 skills:
-  - category: Backend
-    skill: 
-      - Go
-      - Rust
-  - category: Frontend
+  - category: Programming Languages
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - Python
+      - JavaScript
+      - Java
+  - category: Functional test
     skill:
-      - Docker
-      - Kubernetes 
+      - Selenium
+      - Cypress
+      - Appium
+      - RobotFramework
+      - Katalon Studio
+      - API
+      - etc
+  - category: Non-functional tests (Load/Stress/Performance)
+    skill:
+      - K6.io
+      - jMeter
+      - loader.io
+      - DevTools Recorder
+  - category: Other
+    skill:
+      - Git
+      - Linux
+      - CI/CD (Jenkins, gitlab-ci)
+      - BDD (Gherkin)
+      - Database
+      - TestRail / Testlink
+      - Jira / Confluence
+      - Notion
+      - JetBrain IDEs
+      - Grafana
+      - Kubernetes
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+   - Certified Python and QA Automation developer/mentor/youtube instructor.
+   - 10 years of working career with 7 years of experience in Software QA including Automated and Manual testing of web-based and mobile applications (UI, API, Backend)
+   - Expert on creating Test Automation framework from scratch using Appium, Selenium, Robot Framework, Cypress, Katalon Studio, etc.
+   - Experienced in Non-Functional tests like Load, Performance, Using K6, JMeter, loader.io and etc...
+   - Solid understanding of Scrum and SDLC in an Agile style development of software.
+   - Skilled in leading QA team
+   - Experienced in working with cloud-based environments and orchestration tools like Kubernetes.
+   - Familiar with QA-DevOps activities such as integrate Test-cases into CI/CD pipelines.
+   - Expert in identifying and reporting defects using various bug tracking tools
+   - Experienced in writing test documentation (test plans, test cases, test suites)
+   - Experienced in Cloud testing platforms and device farms like Bitbar and Browserstack
+   - Ability to learn new technologies and concepts quickly and implement them
+   - Passionate about QA Automation process and coding
+   - Enthusiastic, knowledge-hungry, self-starter, eager to meet challenges and quickly assimilate latest technologies, skills, concepts, and ideas
+
+
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Senior QA Automation Developer (SDET)
+    time: Sep 2022 - Present
+    company: DataArt
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
-  
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+      Joined as a Senior Software QA automation engineer on an international project with more than 15000 employees
+      - Contributing to integration testing using Cypress framework + JavaScrip
+      - Integrating tests on CI/CD (Jenkins)
+      - Working with high-level orchestration-based environments (Kubernetes)
+      Website: https://dataart.com/
+    technologies_used: |
+      Cypress, JavaScript, Jenkins/Bitbucket, BDD (Gherkin), Jira/Confluence
+
+  - role: Senior QA Automation Engineer | QA Lead
+    time: Jun 2021 - Sep 2022
+    company: Routetitan
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      - Implement UI Test Automation project from scrach using Selenium/Appium+Robotframework.
+      - Implement performance test project from scrach uisng k6
+      - Configure and run automation tests in CI/CD.
+      - Responsible for maintain and code review of all automation projects
+      - Contribute on Front-end projects to define unique locators
+      - Hire QA Engineers
+      Website: https://routetitan.com/
+    technologies_used: |
+      Python, Selenium, RobotFramwework, k6.io, JavaScript, AWS
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
-
-projects:
-  - title: Cool Project 
-    link: #
+  - role: QA Automation Engineer
+    time: Jan 2020 - Jun 2021
+    company: Snapp
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Snapp has founded in 2014 and it is the first, biggest, and leading mobile and web-based smart transportation system in Iran.
+      I was responsible for:
+      - Sketching out ideas for automated software test procedures
+      - Implementing and maintenance automation scripts using Pure Python/Selenium/Appium/RobotFramework, etc.
+      - Run the automated test-cases against Snapp APP/WebApp/API
+      - Working with Snapp’s backends including Databases, APIs, Cloud environments, and etc to ensure the maximum test code coverage.
+      - R&D on QA developing to be updated with the latest technologies and solving challenges
+      - Collaborating with other teams to solve application faults found by automated tests
+      - etc
+    technologies_used: |
+      Python, Selenium, Appium, RobotFramwework, Kubernetes (Openshift), MySQL, Jira/Confluence
 
-  - title: Cool Project 
-    link: #
+  - role: Software QA Engineer | QA Lead
+    time: Jun 2015 - Dec 2019
+    company: TadbirGostaran (Iran)
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      - Allow/Deny the company projects to release or update versions.
+      - Managing QA flows and all test-related activities.
+      - Leading QA team, training them and define the responsibilities for persons.
+      - Create Test plans based on the project requirement documents
+      - Develop the QA tools with the last technologies.
+      - Sync all processes with SDLC and STLC on Agile development to reach the shortest QA activities time.
+      - Review the test-cases, test results, etc reported by the team
+      - Write and run Automated/Manual tests including functional and non-functional. Such as performance, acceptance, regression, UI automation, etc
+    technologies_used: |
+      Postman, Katalon Studio, Loader.io, YouTrack
