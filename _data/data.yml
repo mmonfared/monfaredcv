@@ -5,13 +5,9 @@ fork: true
 # Sidebar
 contact:
   email: mohammadmonfared [at] hotmail [dot] com
-  github: johndoe
+  github: mmonfared
   linkedin: mohammad-monfared
   youtube: automationcamp
-  telegram: mohammad_monfared
-  phone:
-  gitlab:
-  twitter:
 
 languages:
   - idiom: English
@@ -23,7 +19,7 @@ education:
     university: University of Applied Science and Technoogy
 
 skills:
-  - category: Programming Languages
+  - category: Dev languages
     skill:
       - Python
       - JavaScript
@@ -37,7 +33,7 @@ skills:
       - Katalon Studio
       - API
       - etc
-  - category: Non-functional tests (Load/Stress/Performance)
+  - category: Non-functional tests
     skill:
       - K6.io
       - jMeter
